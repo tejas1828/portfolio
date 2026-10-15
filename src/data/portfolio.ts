@@ -222,7 +222,7 @@ export const projects: Project[] = [
       "Clean modular component architecture with TypeScript strict type safety",
       "Interactive copy-to-clipboard and responsive mobile navigation"
     ],
-    liveUrl: "https://tejas1828.github.io/portfolio/",
+    liveUrl: "https://tejas1828.github.io/portfolio/", 
     githubUrl: "https://github.com/tejas1828/portfolio"
   },
   {
