@@ -161,7 +161,7 @@ export const experiences: Experience[] = [
 
 export const projects: Project[] = [
   {
-    "id": "proj-2",
+    "id": "proj-1",
   "title": "Financial Risk Analyzer",
   "subtitle": "Final Year Capstone Project",
   "description": "Full-stack risk assessment platform featuring a React.js dashboard and FastAPI/MySQL backend to compute real-time portfolio risk metrics, volatility, and credit scores.",
@@ -178,7 +178,7 @@ export const projects: Project[] = [
     githubUrl: "https://github.com/Nerli-Ishan-25/FinWise-Complete-v2-mark-2"
   },
   {
-    id: "proj-1",
+    id: "proj-2",
     title: "Explore Kolhapur — City Tourism Web App",
     subtitle: "Full-Stack City Exploration & Tourism Platform",
     description: "Comprehensive tourism discovery web application featuring verified destination listings, interactive location maps, high-resolution media galleries, and traveler reviews with moderation.",
@@ -222,7 +222,7 @@ export const projects: Project[] = [
       "Clean modular component architecture with TypeScript strict type safety",
       "Interactive copy-to-clipboard and responsive mobile navigation"
     ],
-    liveUrl: "https://tejas-khandekar-portfolio.netlify.app",
+    liveUrl: "https://tejas1828.github.io/portfolio/",
     githubUrl: "https://github.com/tejas1828/portfolio"
   },
   {
